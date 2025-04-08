@@ -4,7 +4,7 @@ function AboutUs() {
   return (
     <div>
 <div>AboutUs</div>
-<h1> hello </h1>
+<h1> hello lolo  </h1>
     </div>
     
   )
