@@ -2,7 +2,11 @@ import React from 'react'
 
 function AboutUs() {
   return (
-    <div>AboutUs</div>
+    <div>
+<div>AboutUs</div>
+<h1> hello </h1>
+    </div>
+    
   )
 }
 
