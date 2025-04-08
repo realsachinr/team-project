@@ -5,6 +5,7 @@ function AboutUs() {
     <div>
 <div>AboutUs</div>
 <h1> hello lolo  </h1>
+<h1> hello lolo  </h1>
     </div>
     
   )
